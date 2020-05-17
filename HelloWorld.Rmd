@@ -13,6 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## This is a markdown file
 ### ↑ Here is a line
+ # Hello, my name is Mary. I'm beginner in programming, but not for long. Practice makes perfect.
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
